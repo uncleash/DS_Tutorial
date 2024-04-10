@@ -80,25 +80,5 @@ Some warning is here....
 
 Placeholder help you with adding of some dynamic information to your demo script. Like first or last name of the GDemo user, his email address, etc:
 
-| Placeholder | Replacement |
-|--- | --- |
-| #gsys_username | GDemo username |
-| #gsys_firstname | First name |
-| #gsys_lastname | Last name |
-| #gsys_gdemo_id | GDemo ID |
-| #gsys_email | Email address |
-| #gsys_phone | Phone number |
-| #gsys_address | Address |
-| #gsys_city | City |
-| #gsys_country | Country |
-| #gsys_pc_region | GC Region |
-| #gsys_pc_skill1 | GC Skill 1 |
-| #gsys_pc_skill2 | GC Skill 2 |
-| #gsys_ext_contact | GC External contact ID |
-
-***Example:***
-
-```
-Please make a call from #gsys_phone phone number.
-```
+![Placeholders](/images/placeholders.png)
 
