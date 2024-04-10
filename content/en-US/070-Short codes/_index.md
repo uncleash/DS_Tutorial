@@ -9,7 +9,7 @@ weight: 80
 
 * Youtube frame (use youtube video id):
 
-*{{< youtube **neeXDdT6m1U** >}}*
+<pre><code>{{< youtube neeXDdT6m1U >}}</code></pre>
 
 * Vimeo frame (use video id):
 
