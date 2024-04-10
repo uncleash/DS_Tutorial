@@ -7,11 +7,10 @@ weight: 80
 
 ### Short codes and placeholders allow you to add some dynamic content and insert special media and pre-formatted text to your demo script  
 
-
 * Youtube frame (use youtube video id):
 
-```text
-{{< youtube neeXDdT6m1U >}}
+```
+{{&lt; youtube neeXDdT6m1U &gt;}}
 ```
 
 * Vimeo frame (use video id):
