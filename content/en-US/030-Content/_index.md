@@ -31,9 +31,8 @@ The demo script images should be added to the "Images" subfolder under the "Stat
 
 Add images to the demoscript files in markdown format pointing to 'images' folder:
 
-```
-![Images](/images/some-image.png)
-```
+<pre><code>![Images](/images/some-image.png)</pre></code>
+
 
 Here is an example of linking image:
 
