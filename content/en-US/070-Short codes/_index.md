@@ -13,11 +13,11 @@ weight: 80
 
 * Vimeo frame (use video id):
 
-*{{< vimeo **771585197** >}}*
+<pre><code>{{< vimeo 771585197 >}}</pre></code>
 
 * Mp4 video frame:
 
-*{{< video **https://some-host.com/file.mp4** >}}*
+<pre><code>{{< video https://some-host.com/file.mp4 >}}</pre></code>
 
 * Phone numbers - a dynamic list of demo phone numbers specific to the demo user region:
 
