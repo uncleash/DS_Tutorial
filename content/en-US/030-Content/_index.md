@@ -7,10 +7,7 @@ weight: 80
 ### Demo Script files structure
 
 ```
-genesys-workshop-template
-├───.github
-│   └───workflows
-├───archetypes
+genesys-demo-script
 ├───content
 │   ├───en-US
 │   │   ├───010-Introduction
@@ -20,17 +17,11 @@ genesys-workshop-template
 │       ├───010-Introduction
 │       ├───020-Getting-Started
 │       └───090-Conclusion
-├───layouts
-│   └───partials
-├───resources
-│   └───_gen
-│       ├───assets
-│       └───images
 └───static
     ├───css
     └───images
 
- ```
+```
   
 ### Images
 

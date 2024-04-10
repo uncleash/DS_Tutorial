@@ -3,6 +3,7 @@ title: "Short codes and placeholders"
 chapter: true
 weight: 80
 ---
+[comment]: # (no-smart-codes - that is not to parse smart codes on that page)
 
 ### Short codes and placeholders allow you to add some dynamic content and insert special media and pre-formatted text to your demo script  
 
