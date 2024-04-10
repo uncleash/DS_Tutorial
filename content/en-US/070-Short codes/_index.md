@@ -9,9 +9,8 @@ weight: 80
 
 
 * Youtube frame (use youtube video id):
-```
+* 
 {{< youtube neeXDdT6m1U >}}
-```
 
 * Vimeo frame (use video id):
 ```
