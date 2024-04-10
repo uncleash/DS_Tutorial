@@ -14,6 +14,10 @@ Images for different languages can be the same or different. In the second case 
 
 To add a new language:
 
+- if you don't have an access to GTS git repository, download the demo script spurce using Download button on a demo script tile (click on demo title to extend the tile before that).
+
+![Download](/images/download.png)
+
 - copy content of 'content/en-US' folder
 - translate md files in the copy
 - put translated files under 'content/[localization code]' folder
@@ -29,4 +33,4 @@ languageName = "Español"
 languageCode = "es-ES"
 ```
 
-Send updated files to tm@genesys.com
+Send updated demo script to tm@genesys.com

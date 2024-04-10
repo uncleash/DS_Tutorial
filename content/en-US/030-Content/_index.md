@@ -43,7 +43,11 @@ Here is an example of linking image:
 
 You can think of the folders within "Content" as modules. For example, if you wanted to add a module about "Setting Up", you would add a folder to the "Content folder" and title it "030-Setting Up". You would then add your information to that module. The number before the title signifies the order of that module. So "030-Setting Up" would come after "020-Getting Started" and before "090-Conclusion".
 
-You can then organize your content within that folder by adding [markdown](https://www.markdownguide.org/basic-syntax) files. To add a markdown file, right click the folder you want this file to appear in and select "New File". Give the submodule a title that reflects its numerical order followed by ".md". For example, if you wanted the module "020-Getting Started" to have 2 "submodules", you would title the first one  "10_first.md" and the second one "20_second.md". (Note: files have to end in ".md" for the system to recognize it as a markdown file).
+You can then organize your content within that folder by adding [markdown](https://www.markdownguide.org/basic-syntax) files. 
+
+> **_NOTE:_** You can add HTML tags to the markdown document when you need an additional formatting
+
+To add a markdown file, right click the folder you want this file to appear in and select "New File". Give the submodule a title that reflects its numerical order followed by ".md". For example, if you wanted the module "020-Getting Started" to have 2 "submodules", you would title the first one  "10_first.md" and the second one "20_second.md". (Note: files have to end in ".md" for the system to recognize it as a markdown file).
 
 ![Submodules](/images/structure.png)
 

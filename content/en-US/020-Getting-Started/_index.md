@@ -4,13 +4,13 @@ chapter: true
 weight: 20
 ---
 
-## Roadmap 
+### Roadmap
 
-* ### - Create a new demo script repository from a [template] (https://github.com/GenesysTS/DemoScript-samples)
+* Create a new demo script repository from a [template] (https://github.com/GenesysTS/DemoScript-samples)
 
-* ### Clone new demoscript repository localy
+* Clone the new demoscript project localy
 
-* ### Update the demoscript content and push the updated to github
+* Update the demoscript content and push the updated to github
   
-* ### Add your demo script to GDemo. For that contact to GTS team by [email] (mailto://tm@genesys.com)
+* Add your demo script to GDemo. For that contact to GTS team by [email] (mailto://tm@genesys.com)
   
