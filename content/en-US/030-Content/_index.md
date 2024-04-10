@@ -31,18 +31,15 @@ The demo script images should be added to the "Images" subfolder under the "Stat
 
 Add images to the demoscript files in markdown format pointing to 'images' folder:
 
-<pre><code>![Images](/images/some-image.png)</pre></code>
-
+![Images](/images/some-image.png)
 
 Here is an example of linking image:
 
-```
-[![Logo](/images/genesys-logo.png)](http://genesys.com)
-```
+![Images](/images/ext-image.png)
 
 You can think of the folders within "Content" as modules. For example, if you wanted to add a module about "Setting Up", you would add a folder to the "Content folder" and title it "030-Setting Up". You would then add your information to that module. The number before the title signifies the order of that module. So "030-Setting Up" would come after "020-Getting Started" and before "090-Conclusion".
 
-You can then organize your content within that folder by adding [markdown](https://www.markdownguide.org/basic-syntax) files. 
+You can then organize your content within that folder by adding [markdown](https://www.markdownguide.org/basic-syntax) files.
 
 > **_NOTE:_** You can add HTML tags to the markdown document when you need an additional formatting
 
