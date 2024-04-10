@@ -23,9 +23,9 @@ genesys-demo-script
 
 ```
   
-### Images
+You should work with "Content" folder seen in the repository structure above.
 
-You should work with "Content" folder seen in the repository structure above. 
+### Images
 
 The demo script images should be added to the "Images" subfolder under the "Static" folder. Once the images are uploaded to this folder, you can begin referencing them using markdown language.
 

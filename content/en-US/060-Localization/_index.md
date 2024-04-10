@@ -10,11 +10,11 @@ Each language content should be placed under a special folder under 'content' di
 
 Images for different languages can be the same or different. In the second case they should be placed to static/images folder with new names, like '*popup.png*' and '*es-popup.png*'.
 
-### Adding a new language
+### Adding new language
 
 To add a new language:
 
-- if you don't have an access to GTS git repository, download the demo script spurce using Download button on a demo script tile (click on demo title to extend the tile before that).
+- if you don't have an access to GTS git repository, download the demo script spurce using Download button on a demo script tile (click on demo title to expand the tile before that).
 
 ![Download](/images/download.png)
 
@@ -33,4 +33,4 @@ languageName = "Español"
 languageCode = "es-ES"
 ```
 
-Send updated demo script to tm@genesys.com
+Send updated demo script to [GDemo team](mailto://tm@genesys.com)
