@@ -9,17 +9,15 @@ weight: 80
 
 * Youtube frame (use youtube video id):
 
-`{{< youtube neeXDdT6m1U >}}`
+*{{< youtube neeXDdT6m1U >}}*
 
 * Vimeo frame (use video id):
-```
-{{< vimeo 771585197 >}}
-```
+
+*{{< vimeo 771585197 >}}*
 
 * Mp4 video frame:
-```
-{{< video https://some-host.com/file.mp4 >}}
-```
+
+*{{< video https://some-host.com/file.mp4 >}}*
 
 * Phone numbers - a dynamic list of demo phone numbers specific to the demo user region:
 
